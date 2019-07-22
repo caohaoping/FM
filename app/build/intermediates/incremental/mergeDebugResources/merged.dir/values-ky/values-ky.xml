@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Үйгө багыттоо"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Жогору"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Көбүрөөк мүмкүнчүлүктөр"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Даяр"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Бардыгын көрүү"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Колдонмо тандоо"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ӨЧҮК"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"КҮЙҮК"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Издөө…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Талаптарды тазалоо"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Издөө талаптары"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Издөө"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Талап жөнөтүү"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Үн аркылуу издөө"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Бөлүшүү"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s аркылуу бөлүшүү"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Жыйнап коюу"</string>
+    <string name="already_exists">мурунтан эле бар</string>
+    <string name="app_name">FM Радио</string>
+    <string name="btn_discard_recording">Жарактан чыгаруу</string>
+    <string name="btn_save_recording">Сактоо</string>
+    <string name="edit_recording_name_hint">Файлдын аталышын бул жерге териңиз</string>
+    <string name="favorites">Сүйүктүүлөр</string>
+    <string name="fm_no_headset_text">Угуп баштоо үчүн, кулакчындарды тагыңыз (антенна катары колдонулат).</string>
+    <string name="fm_over_record_list">Сакталган жаздыруулар</string>
+    <string name="fm_over_start_record">Жаздырып баштоо</string>
+    <string name="fm_station_list_menu_refresh">Жаңылоо</string>
+    <string name="fm_symbol">FM</string>
+    <string name="fm_turn_on">FM радиону ойнотуу же токтотуу</string>
+    <string name="minutes_label">М</string>
+    <string name="more">"Дагы"</string>
+    <string name="not_available">Учурда жеткиликтүү эмес</string>
+    <string name="optmenu_earphone">Кулакчын</string>
+    <string name="optmenu_speaker">Катуу сүйлөткүч</string>
+    <string name="record_notification_message">Жаздыруу аткарылып жатат</string>
+    <string name="record_title">Жаздыруу</string>
+    <string name="recording_tips">Жаздырылууда…</string>
+    <string name="remove_favorite">Сүйүктүүнү алып салуу</string>
+    <string name="rename">Атын өзгөртүү</string>
+    <string name="save">Сактоо</string>
+    <string name="save_dialog_caption">Жаздырууларды угуу үчүн, Play Музыка колдонмосун ачыңыз.</string>
+    <string name="save_dialog_title">Жаздыруу сакталсынбы?</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Издөө"</string>
+    <string name="seconds_label">ск</string>
+    <string name="station_empty_text">Станциялар табылган жок</string>
+    <string name="station_rename_hint">Станциянын аталышын киргизиңиз</string>
+    <string name="station_searching_tips">Станциялар алынууда</string>
+    <string name="station_title">Радио станциялары</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_record">ЖАЗДЫРУУНУ ТОКТОТУУ</string>
+    <string name="talk_add_favorite">Сүйүктүүгө кошуу</string>
+    <string name="talk_decrease">Жыштыгын азайтуу</string>
+    <string name="talk_increase">Жыштыгын көбөйтүү</string>
+    <string name="talk_next_station">Кийинки станция</string>
+    <string name="talk_prev_station">Мурунку станция</string>
+    <string name="talk_start_recording">Жаздырып баштоо</string>
+    <string name="timer_default">00</string>
+    <string name="toast_cannot_search">Жеткиликтүү станция изделип табылбай жатат.</string>
+    <string name="toast_listen">УГУУ</string>
+    <string name="toast_record_not_saved">Жаздыруу сакталган жок</string>
+    <string name="toast_record_saved">Жаздыруу сакталды</string>
+    <string name="toast_recorder_internal_error">Жаздыргычта ички ката кетти!</string>
+    <string name="toast_sdcard_insufficient_space">SD-картада орун жетишсиз!</string>
+    <string name="toast_sdcard_missing">SD-картаңыз жок!</string>
+    <string name="toast_station_renamed">Станциянын аталышы өзгөртүлдү</string>
+    <string name="toast_station_searched">Жеткиликтүү станцияларды издеп табуу:</string>
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ОТКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Поиск"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="already_exists">уже существует</string>
+    <string name="app_name">FM-радио</string>
+    <string name="btn_discard_recording">Не сохранять</string>
+    <string name="btn_save_recording">Сохранить</string>
+    <string name="edit_recording_name_hint">Введите здесь название файла</string>
+    <string name="favorites">Избранное</string>
+    <string name="fm_no_headset_text">Чтобы слушать радио, подключите наушники (они работают как антенна)</string>
+    <string name="fm_over_record_list">Сохраненные записи</string>
+    <string name="fm_over_start_record">Начать запись</string>
+    <string name="fm_station_list_menu_refresh">Обновить</string>
+    <string name="fm_symbol">FM</string>
+    <string name="fm_turn_on">Включить или выключить FM-радио</string>
+    <string name="minutes_label">м.</string>
+    <string name="more">"Еще"</string>
+    <string name="not_available">Функция сейчас недоступна</string>
+    <string name="notif_next">Следующая</string>
+    <string name="notif_previous">Предыдущая</string>
+    <string name="notif_stop">Прервать</string>
+    <string name="optmenu_earphone">Наушники</string>
+    <string name="optmenu_speaker">Динамик</string>
+    <string name="record_notification_message">Идет запись</string>
+    <string name="record_title">Запись</string>
+    <string name="recording_tips">Запись…</string>
+    <string name="remove_favorite">Удалить из избранного</string>
+    <string name="rename">Переименовать</string>
+    <string name="save">Сохранить</string>
+    <string name="save_dialog_caption">Чтобы прослушать записи, откройте приложение \"Play Музыка\"</string>
+    <string name="save_dialog_title">Сохранить запись?</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Поиск"</string>
+    <string name="seconds_label">с.</string>
+    <string name="station_empty_text">Станции не найдены</string>
+    <string name="station_rename_hint">Введите название станции</string>
+    <string name="station_searching_tips">Поиск станций</string>
+    <string name="station_title">Радиостанции</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="stop_record">ОСТАНОВИТЬ ЗАПИСЬ</string>
+    <string name="talk_add_favorite">Добавить в избранное</string>
+    <string name="talk_decrease">Уменьшить частоту</string>
+    <string name="talk_increase">Увеличить частоту</string>
+    <string name="talk_next_station">Следующая станция</string>
+    <string name="talk_prev_station">Предыдущая станция</string>
+    <string name="talk_start_recording">Начать запись</string>
+    <string name="timer_default">00</string>
+    <string name="toast_cannot_search">Нет доступных станций</string>
+    <string name="toast_listen">СЛУШАТЬ</string>
+    <string name="toast_record_not_saved">Запись не сохранена</string>
+    <string name="toast_record_saved">Запись сохранена</string>
+    <string name="toast_recorder_internal_error">Внутренняя ошибка диктофона</string>
+    <string name="toast_sdcard_insufficient_space">Недостаточно места на SD-карте</string>
+    <string name="toast_sdcard_missing">Нет SD-карты</string>
+    <string name="toast_station_renamed">Станция переименована</string>
+    <string name="toast_station_searched">Доступные радиостанции:</string>
+</resources>

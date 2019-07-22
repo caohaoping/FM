@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Przejdź do strony głównej"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Przejdź wyżej"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Więcej opcji"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gotowe"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobacz wszystkie"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Wybierz aplikację"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"WYŁ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"WŁ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Szukaj…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Wyczyść zapytanie"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Wyszukiwane hasło"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Szukaj"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Wyślij zapytanie"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Wyszukiwanie głosowe"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Udostępnij dla"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Udostępnij dla %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Zwiń"</string>
+    <string name="already_exists">już istnieje</string>
+    <string name="app_name">Radio FM</string>
+    <string name="btn_discard_recording">Odrzuć</string>
+    <string name="btn_save_recording">Zapisz</string>
+    <string name="edit_recording_name_hint">Tu wpisz nazwę pliku</string>
+    <string name="favorites">Ulubione</string>
+    <string name="fm_no_headset_text">Aby rozpocząć odtwarzanie, podłącz słuchawki (służą jako antena).</string>
+    <string name="fm_over_record_list">Zapisane nagrania</string>
+    <string name="fm_over_start_record">Rozpocznij nagrywanie</string>
+    <string name="fm_station_list_menu_refresh">Odśwież</string>
+    <string name="fm_symbol">FM</string>
+    <string name="fm_turn_on">Uruchom lub zatrzymaj radio FM</string>
+    <string name="minutes_label">M</string>
+    <string name="more">"Więcej"</string>
+    <string name="not_available">Obecnie niedostępne</string>
+    <string name="notif_next">Następny</string>
+    <string name="notif_previous">Poprzedni</string>
+    <string name="notif_stop">Zatrzymaj</string>
+    <string name="optmenu_earphone">Słuchawki</string>
+    <string name="optmenu_speaker">Głośnik</string>
+    <string name="record_notification_message">Nagrywanie w toku</string>
+    <string name="record_title">Nagrywanie</string>
+    <string name="recording_tips">Nagrywam…</string>
+    <string name="remove_favorite">Usuń z ulubionych</string>
+    <string name="rename">Zmień nazwę</string>
+    <string name="save">Zapisz</string>
+    <string name="save_dialog_caption">Aby posłuchać nagrań, otwórz aplikację Muzyka Play.</string>
+    <string name="save_dialog_title">Zapisać nagranie?</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Szukaj"</string>
+    <string name="seconds_label">S</string>
+    <string name="station_empty_text">Nie znaleziono stacji</string>
+    <string name="station_rename_hint">Wpisz nazwę stacji</string>
+    <string name="station_searching_tips">Pobieram stacje</string>
+    <string name="station_title">Stacje radiowe</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_record">ZATRZYMAJ NAGRYWANIE</string>
+    <string name="talk_add_favorite">Dodaj do ulubionych</string>
+    <string name="talk_decrease">Zmniejsz częstotliwość</string>
+    <string name="talk_increase">Zwiększ częstotliwość</string>
+    <string name="talk_next_station">Następna stacja</string>
+    <string name="talk_prev_station">Poprzednia stacja</string>
+    <string name="talk_start_recording">Rozpocznij nagrywanie</string>
+    <string name="timer_default">00</string>
+    <string name="toast_cannot_search">Nie można wyszukać dostępnych stacji.</string>
+    <string name="toast_listen">POSŁUCHAJ</string>
+    <string name="toast_record_not_saved">Nagranie nie zostało zapisane</string>
+    <string name="toast_record_saved">Nagranie zostało zapisane</string>
+    <string name="toast_recorder_internal_error">Wystąpił błąd wewnętrzny w nagrywarce.</string>
+    <string name="toast_sdcard_insufficient_space">Zbyt mało pamięci na karcie SD.</string>
+    <string name="toast_sdcard_missing">Brak karty SD.</string>
+    <string name="toast_station_renamed">Nazwa stacji została zmieniona</string>
+    <string name="toast_station_searched">Wyszukane dostępne stacje:</string>
+</resources>

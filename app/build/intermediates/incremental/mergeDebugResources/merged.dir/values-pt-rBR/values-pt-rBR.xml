@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Selecione um app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESATIVAR"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ATIVAR"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Pesquisar..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartilhar com %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string name="already_exists">já existe</string>
+    <string name="app_name">Rádio FM</string>
+    <string name="btn_discard_recording">Descartar</string>
+    <string name="btn_save_recording">Salvar</string>
+    <string name="edit_recording_name_hint">Digite o nome do arquivo</string>
+    <string name="favorites">Favoritas</string>
+    <string name="fm_no_headset_text">Para começar a ouvir, conecte o fone de ouvido (usado como uma antena).</string>
+    <string name="fm_over_record_list">Gravações guardadas</string>
+    <string name="fm_over_start_record">Iniciar gravação</string>
+    <string name="fm_station_list_menu_refresh">Atualizar</string>
+    <string name="fm_symbol">FM</string>
+    <string name="fm_turn_on">Repr. ou interromper rádio FM</string>
+    <string name="minutes_label">M</string>
+    <string name="more">"Mais"</string>
+    <string name="not_available">Indisponível no momento</string>
+    <string name="notif_next">Próxima</string>
+    <string name="notif_previous">Anterior</string>
+    <string name="notif_stop">Parar</string>
+    <string name="optmenu_earphone">Fone de ouvido</string>
+    <string name="optmenu_speaker">Alto-falante</string>
+    <string name="record_notification_message">Gravação em andamento</string>
+    <string name="record_title">Gravando</string>
+    <string name="recording_tips">Gravando…</string>
+    <string name="remove_favorite">Remover dos favoritos</string>
+    <string name="rename">Renomear</string>
+    <string name="save">Salvar</string>
+    <string name="save_dialog_caption">Para ouvir as gravações, abra o aplicativo Play Music.</string>
+    <string name="save_dialog_title">Deseja salvar a gravação?</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Pesquisar"</string>
+    <string name="seconds_label">S</string>
+    <string name="station_empty_text">Nenhuma estação encontrada</string>
+    <string name="station_rename_hint">Digite o nome da estação</string>
+    <string name="station_searching_tips">Sintonizando estações</string>
+    <string name="station_title">Estações de rádio</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_record">PARAR GRAVAÇÃO</string>
+    <string name="talk_add_favorite">Adicionar aos favoritos</string>
+    <string name="talk_decrease">Diminuir a frequência</string>
+    <string name="talk_increase">Aumentar a frequência</string>
+    <string name="talk_next_station">Ir para a próxima estação</string>
+    <string name="talk_prev_station">Ir para a estação anterior</string>
+    <string name="talk_start_recording">Iniciar gravação</string>
+    <string name="timer_default">00</string>
+    <string name="toast_cannot_search">Não foi possível sintonizar as estações.</string>
+    <string name="toast_listen">ESCUTAR</string>
+    <string name="toast_record_not_saved">A gravação foi descartada</string>
+    <string name="toast_record_saved">A gravação foi salva</string>
+    <string name="toast_recorder_internal_error">Ocorreu um erro interno no gravador</string>
+    <string name="toast_sdcard_insufficient_space">Espaço insuficiente no cartão SD</string>
+    <string name="toast_sdcard_missing">Não há cartão SD</string>
+    <string name="toast_station_renamed">O nome da estação foi alterado</string>
+    <string name="toast_station_searched">Estações sintonizadas:</string>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"முகப்பிற்கு வழிசெலுத்து"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"மேலே வழிசெலுத்து"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"மேலும் விருப்பங்கள்"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"முடிந்தது"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"எல்லாம் காட்டு"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"பயன்பாட்டைத் தேர்வுசெய்க"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"முடக்கு"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"இயக்கு"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"தேடு..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"வினவலை அழி"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"தேடல் வினவல்"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"தேடு"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"வினவலைச் சமர்ப்பி"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"குரல் தேடல்"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"இதனுடன் பகிர்"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s உடன் பகிர்"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"சுருக்கு"</string>
+    <string name="already_exists">ஏற்கனவே உள்ளது</string>
+    <string name="app_name">FM ரேடியோ</string>
+    <string name="btn_discard_recording">நிராகரி</string>
+    <string name="btn_save_recording">சேமி</string>
+    <string name="edit_recording_name_hint">இங்கு கோப்புப் பெயரை உள்ளிடுக</string>
+    <string name="favorites">பிடித்தவை</string>
+    <string name="fm_no_headset_text">கேட்பதற்கு, ஹெட்ஃபோனைச் (ஆன்டெனாவாகப் பயன்படுவது) செருகவும்.</string>
+    <string name="fm_over_record_list">சேமித்த பதிவுகள்</string>
+    <string name="fm_over_start_record">பதிவுசெய்தலைத் தொடங்கு</string>
+    <string name="fm_station_list_menu_refresh">புதுப்பி</string>
+    <string name="fm_symbol">FM</string>
+    <string name="fm_turn_on">FM ரேடியோவை இயக்கு அல்லது நிறுத்து</string>
+    <string name="minutes_label">நி</string>
+    <string name="more">"மேலும்"</string>
+    <string name="not_available">தற்சமயம் இல்லை</string>
+    <string name="optmenu_earphone">இயர்ஃபோன்</string>
+    <string name="optmenu_speaker">ஸ்பீக்கர்</string>
+    <string name="record_notification_message">பதிவுசெய்கிறது</string>
+    <string name="record_title">பதிவுசெய்கிறது</string>
+    <string name="recording_tips">பதிவுசெய்கிறது…</string>
+    <string name="remove_favorite">பிடித்தவையிலிருந்து அகற்று</string>
+    <string name="rename">மறுபெயரிடு</string>
+    <string name="save">சேமி</string>
+    <string name="save_dialog_caption">பதிவுசெய்தவற்றைக் கேட்க, Play Music பயன்பாட்டைத் திறக்கவும்.</string>
+    <string name="save_dialog_title">பதிவுசெய்ததைச் சேமிக்கவா?</string>
+    <string msgid="146198913615257606" name="search_menu_title">"தேடு"</string>
+    <string name="seconds_label">வி</string>
+    <string name="station_empty_text">நிலையங்கள் எதுவுமில்லை</string>
+    <string name="station_rename_hint">நிலையப் பெயரை உள்ளிடுக</string>
+    <string name="station_searching_tips">நிலையங்களைப் பெறுகிறது</string>
+    <string name="station_title">வானொலி நிலையங்கள்</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_record">பதிவுசெய்வதை நிறுத்து</string>
+    <string name="talk_add_favorite">பிடித்தவையில் சேர்</string>
+    <string name="talk_decrease">அலைவரிசையைக் குறை</string>
+    <string name="talk_increase">அலைவரிசையை அதிகரி</string>
+    <string name="talk_next_station">அடுத்த நிலையம்</string>
+    <string name="talk_prev_station">முந்தைய நிலையம்</string>
+    <string name="talk_start_recording">பதிவுசெய்தலைத் தொடங்கு</string>
+    <string name="timer_default">00</string>
+    <string name="toast_cannot_search">கிடைக்கும் நிலையத்தைத் தேட முடியவில்லை.</string>
+    <string name="toast_listen">கேள்</string>
+    <string name="toast_record_not_saved">பதிவு சேமிக்கப்படவில்லை</string>
+    <string name="toast_record_saved">பதிவு சேமிக்கப்பட்டது</string>
+    <string name="toast_recorder_internal_error">ரெக்கார்டரில் அகப் பிழை ஏற்பட்டது!</string>
+    <string name="toast_sdcard_insufficient_space">போதுமான SD கார்டு சேமிப்பிடம் இல்லை!</string>
+    <string name="toast_sdcard_missing">SD கார்டு இல்லை!</string>
+    <string name="toast_station_renamed">நிலையத்திற்கு மறுபெயரிடப்பட்டது</string>
+    <string name="toast_station_searched">கிடைக்கும் நிலையங்கள்:</string>
+</resources>

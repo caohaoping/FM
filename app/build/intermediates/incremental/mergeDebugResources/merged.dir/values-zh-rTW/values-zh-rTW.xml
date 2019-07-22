@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"瀏覽首頁"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s - %2$s：%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"向上瀏覽"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多選項"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"選擇應用程式"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"關閉"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"開啟"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜尋…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查詢"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜尋查詢"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜尋"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查詢"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"語音搜尋"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"選擇分享對象"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"與「%s」分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收合"</string>
+    <string name="already_exists">已存在</string>
+    <string name="app_name">FM 收音機</string>
+    <string name="btn_discard_recording">捨棄</string>
+    <string name="btn_save_recording">儲存</string>
+    <string name="edit_recording_name_hint">在這裡輸入檔案名稱</string>
+    <string name="favorites">最愛電台</string>
+    <string name="fm_no_headset_text">如要開始收聽，請接上耳機 (做為天線)。</string>
+    <string name="fm_over_record_list">已儲存的錄音內容</string>
+    <string name="fm_over_start_record">開始錄音</string>
+    <string name="fm_station_list_menu_refresh">重新整理</string>
+    <string name="fm_symbol">FM</string>
+    <string name="fm_turn_on">播放或停止播放 FM 電台</string>
+    <string name="minutes_label">分鐘</string>
+    <string name="more">"更多"</string>
+    <string name="not_available">目前無法使用</string>
+    <string name="notif_next">下一個</string>
+    <string name="notif_previous">上一個</string>
+    <string name="notif_stop">停止</string>
+    <string name="optmenu_earphone">耳機</string>
+    <string name="optmenu_speaker">喇叭</string>
+    <string name="record_notification_message">目前正在錄音</string>
+    <string name="record_title">錄音</string>
+    <string name="recording_tips">錄音中…</string>
+    <string name="remove_favorite">移除最愛電台</string>
+    <string name="rename">重新命名</string>
+    <string name="save">儲存</string>
+    <string name="save_dialog_caption">如要收聽錄音內容，請開啟 Play 音樂應用程式。</string>
+    <string name="save_dialog_title">儲存錄音內容？</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜尋"</string>
+    <string name="seconds_label">秒</string>
+    <string name="station_empty_text">找不到電台</string>
+    <string name="station_rename_hint">輸入電台名稱</string>
+    <string name="station_searching_tips">正在取得電台清單</string>
+    <string name="station_title">電台</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_record">停止錄音</string>
+    <string name="talk_add_favorite">加入最愛電台</string>
+    <string name="talk_decrease">往下調頻</string>
+    <string name="talk_increase">往上調頻</string>
+    <string name="talk_next_station">下一個電台</string>
+    <string name="talk_prev_station">上一個電台</string>
+    <string name="talk_start_recording">開始錄音</string>
+    <string name="timer_default">00</string>
+    <string name="toast_cannot_search">搜尋不到可收聽的電台。</string>
+    <string name="toast_listen">收聽</string>
+    <string name="toast_record_not_saved">未儲存錄音內容</string>
+    <string name="toast_record_saved">已儲存錄音內容</string>
+    <string name="toast_recorder_internal_error">錄音程式發生內部錯誤！</string>
+    <string name="toast_sdcard_insufficient_space">SD 卡空間不足！</string>
+    <string name="toast_sdcard_missing">找不到您的 SD 卡！</string>
+    <string name="toast_station_renamed">電台已重新命名</string>
+    <string name="toast_station_searched">搜尋到可收聽的電台：</string>
+</resources>

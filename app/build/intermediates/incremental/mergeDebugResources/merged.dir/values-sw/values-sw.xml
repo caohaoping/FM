@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Nenda mwanzo"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Nenda juu"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Chaguo zaidi"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Nimemaliza"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Angalia zote"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Chagua programu"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"IMEZIMWA"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"IMEWASHWA"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Tafuta…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Futa hoja"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Hoja ya utafutaji"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Tafuta"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Wasilisha hoja"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Tafuta kwa kutamka"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Shiriki na:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Shiriki na %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Kunja"</string>
+    <string name="already_exists">jina hilo tayari lipo</string>
+    <string name="app_name">Redio ya FM</string>
+    <string name="btn_discard_recording">Tupa</string>
+    <string name="btn_save_recording">Hifadhi</string>
+    <string name="edit_recording_name_hint">Andika jina la faili hapa</string>
+    <string name="favorites">Vipendwa</string>
+    <string name="fm_no_headset_text">Ili uanze kusikiliza, weka vifaa vya sauti (hutumika kama antena).</string>
+    <string name="fm_over_record_list">Rekodi zilizohifadhiwa</string>
+    <string name="fm_over_start_record">Anza kurekodi</string>
+    <string name="fm_station_list_menu_refresh">Onyesha upya</string>
+    <string name="fm_symbol">FM</string>
+    <string name="fm_turn_on">Cheza au usitishe redio ya FM</string>
+    <string name="minutes_label">Dak</string>
+    <string name="more">"Zaidi"</string>
+    <string name="not_available">Haipatikani kwa sasa</string>
+    <string name="optmenu_earphone">Kifaa cha sauti</string>
+    <string name="optmenu_speaker">Spika</string>
+    <string name="record_notification_message">Inaendelea kurekodi</string>
+    <string name="record_title">Inarekodi</string>
+    <string name="recording_tips">Inarekodi...</string>
+    <string name="remove_favorite">Ondoa miongoni mwa vipendwa</string>
+    <string name="rename">Badili jina</string>
+    <string name="save">Hifadhi</string>
+    <string name="save_dialog_caption">Ili usikilize rekodi, fungua programu ya Muziki wa Google Play.</string>
+    <string name="save_dialog_title">Ungependa kuhifadhi rekodi?</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Tafuta"</string>
+    <string name="seconds_label">Sek</string>
+    <string name="station_empty_text">Hakuna stesheni zilizopatikana</string>
+    <string name="station_rename_hint">Weka jina la stesheni</string>
+    <string name="station_searching_tips">Inaleta stesheni</string>
+    <string name="station_title">Stesheni za Redio</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_record">ACHA KUREKODI</string>
+    <string name="talk_add_favorite">Ongeza kwenye vipendwa</string>
+    <string name="talk_decrease">Punguza mawimbi</string>
+    <string name="talk_increase">Ongeza mawimbi</string>
+    <string name="talk_next_station">Stesheni inayofuata</string>
+    <string name="talk_prev_station">Stesheni iliyotangulia</string>
+    <string name="talk_start_recording">Anza kurekodi</string>
+    <string name="timer_default">00</string>
+    <string name="toast_cannot_search">Haiwezi kutafuta stesheni inayopatikana.</string>
+    <string name="toast_listen">SIKILIZA</string>
+    <string name="toast_record_not_saved">Rekodi haijahifadhiwa</string>
+    <string name="toast_record_saved">Rekodi imehifadhiwa</string>
+    <string name="toast_recorder_internal_error">Hitilafu ya ndani imetokea kwenye kifaa cha kurekodi!</string>
+    <string name="toast_sdcard_insufficient_space">Nafasi ya kadi ya SD haitoshi!</string>
+    <string name="toast_sdcard_missing">Kadi yako ya SD haipo!</string>
+    <string name="toast_station_renamed">Umebadilisha jina la stesheni</string>
+    <string name="toast_station_searched">Imetafuta stesheni zinazopatikana:</string>
+</resources>

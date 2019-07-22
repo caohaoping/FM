@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigasi ke beranda"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigasi naik"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Opsi lain"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Selesai"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Lihat semua"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Pilih aplikasi"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"NONAKTIF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"AKTIF"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Telusuri..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Hapus kueri"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Kueri penelusuran"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Telusuri"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Kirim kueri"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Penelusuran suara"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Bagikan dengan"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Bagikan dengan %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Ciutkan"</string>
+    <string name="already_exists">sudah ada</string>
+    <string name="app_name">Radio FM</string>
+    <string name="btn_discard_recording">Buang</string>
+    <string name="btn_save_recording">Simpan</string>
+    <string name="edit_recording_name_hint">Ketikkan nama file di sini</string>
+    <string name="favorites">Favorit</string>
+    <string name="fm_no_headset_text">Untuk mulai mendengarkan, colokkan headphone (berfungsi sebagai antena).</string>
+    <string name="fm_over_record_list">Rekaman tersimpan</string>
+    <string name="fm_over_start_record">Mulai merekam</string>
+    <string name="fm_station_list_menu_refresh">Segarkan</string>
+    <string name="fm_symbol">FM</string>
+    <string name="fm_turn_on">Putar atau stop radio FM</string>
+    <string name="minutes_label">m</string>
+    <string name="more">"Lainnya"</string>
+    <string name="not_available">Saat ini tidak tersedia</string>
+    <string name="notif_next">Berikutnya</string>
+    <string name="notif_previous">Sebelumnya</string>
+    <string name="notif_stop">Hentikan</string>
+    <string name="optmenu_earphone">Earphone</string>
+    <string name="optmenu_speaker">Speaker</string>
+    <string name="record_notification_message">Sedang merekam</string>
+    <string name="record_title">Merekam</string>
+    <string name="recording_tips">Merekam...</string>
+    <string name="remove_favorite">Hapus favorit</string>
+    <string name="rename">Ganti nama</string>
+    <string name="save">Simpan</string>
+    <string name="save_dialog_caption">Untuk mendengarkan rekaman, buka aplikasi Play Musik.</string>
+    <string name="save_dialog_title">Simpan rekaman?</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Telusuri"</string>
+    <string name="seconds_label">d</string>
+    <string name="station_empty_text">Stasiun radio tidak ditemukan</string>
+    <string name="station_rename_hint">Masukkan nama stasiun radio</string>
+    <string name="station_searching_tips">Mendapatkan stasiun radio</string>
+    <string name="station_title">Stasiun Radio</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_record">BERHENTI MEREKAM</string>
+    <string name="talk_add_favorite">Tambahkan ke favorit</string>
+    <string name="talk_decrease">Turunkan frekuensi</string>
+    <string name="talk_increase">Naikkan frekuensi</string>
+    <string name="talk_next_station">Stasiun radio berikutnya</string>
+    <string name="talk_prev_station">Stasiun radio sebelumnya</string>
+    <string name="talk_start_recording">Mulai merekam</string>
+    <string name="timer_default">00</string>
+    <string name="toast_cannot_search">Gagal mencari stasiun radio yang tersedia.</string>
+    <string name="toast_listen">DENGARKAN</string>
+    <string name="toast_record_not_saved">Rekaman tidak disimpan</string>
+    <string name="toast_record_saved">Rekaman disimpan</string>
+    <string name="toast_recorder_internal_error">Terjadi kesalahan internal pada perekam!</string>
+    <string name="toast_sdcard_insufficient_space">Memori kartu SD tidak cukup!</string>
+    <string name="toast_sdcard_missing">Kartu SD tidak ada!</string>
+    <string name="toast_station_renamed">Stasiun radio ini telah berganti nama</string>
+    <string name="toast_station_searched">Stasiun radio yang saat ini tersedia:</string>
+</resources>

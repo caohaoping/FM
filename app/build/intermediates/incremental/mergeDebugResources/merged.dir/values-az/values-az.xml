@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Evə naviqasiya et"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Yuxarı get"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Digər variantlar"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Hazırdır"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Hamısına baxın"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Tətbiq seçin"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DEAKTİV"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"AKTİV"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Axtarış..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Sorğunu təmizlə"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Axtarış sorğusu"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Axtarış"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Sorğunu göndərin"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Səsli axtarış"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Bununla paylaşın"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Dağıt"</string>
+    <string name="already_exists">artıq mövcuddur</string>
+    <string name="app_name">FM Radio</string>
+    <string name="btn_discard_recording">Ləğv edin</string>
+    <string name="btn_save_recording">Saxla</string>
+    <string name="edit_recording_name_hint">Faylın adını bura yazın</string>
+    <string name="favorites">Sevimlilər</string>
+    <string name="fm_no_headset_text">Dinləməyə başlamaq üçün qulaqlıqları qoşun (antena kimi istifadə olunur).</string>
+    <string name="fm_over_record_list">Saxlanan yazılar</string>
+    <string name="fm_over_start_record">Yazmağı başlat</string>
+    <string name="fm_station_list_menu_refresh">Təzələ</string>
+    <string name="fm_symbol">FM</string>
+    <string name="fm_turn_on">FM radiosunu səsləndir və ya dayandır</string>
+    <string name="minutes_label">M</string>
+    <string name="more">"Daha çox"</string>
+    <string name="not_available">Hal-hazırda mövcud deyil</string>
+    <string name="notif_next">Sonrakı</string>
+    <string name="notif_previous">Əvvəlki</string>
+    <string name="notif_stop">Dayandır</string>
+    <string name="optmenu_earphone">Qulaqlıq</string>
+    <string name="optmenu_speaker">Dinamik</string>
+    <string name="record_notification_message">Yazma icra olunur</string>
+    <string name="record_title">Yazır</string>
+    <string name="recording_tips">Yazır...</string>
+    <string name="remove_favorite">Sevimlini sil</string>
+    <string name="rename">Adını dəyişdir</string>
+    <string name="save">Saxla</string>
+    <string name="save_dialog_caption">Yazılara qulaq asmaq üçün Play Music proqramını açın.</string>
+    <string name="save_dialog_title">Yazı saxlansın?</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Axtarış"</string>
+    <string name="seconds_label">S</string>
+    <string name="station_empty_text">Stansiya tapılmadı</string>
+    <string name="station_rename_hint">Stansiyanın adını daxil et</string>
+    <string name="station_searching_tips">Stansiyalar əldə olunur</string>
+    <string name="station_title">Radio stansiyalar</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_record">YAZINI DAYANDIR</string>
+    <string name="talk_add_favorite">Sevimliyə əlavə et</string>
+    <string name="talk_decrease">Tezliyi azalt</string>
+    <string name="talk_increase">Tezliyi artır</string>
+    <string name="talk_next_station">Növbəti stansiya</string>
+    <string name="talk_prev_station">Əvvəlki stansiya</string>
+    <string name="talk_start_recording">Yazmağı başlat</string>
+    <string name="timer_default">00</string>
+    <string name="toast_cannot_search">Mövcud stansiyasını axtarmaq mümkün deyil.</string>
+    <string name="toast_listen">QULAQ AS</string>
+    <string name="toast_record_not_saved">Yazı saxlanmadı</string>
+    <string name="toast_record_saved">Yazı saxlandı</string>
+    <string name="toast_recorder_internal_error">Yazan zaman daxili səhv baş verdi.</string>
+    <string name="toast_sdcard_insufficient_space">SD kartda kifayət qədər yer yoxdur!</string>
+    <string name="toast_sdcard_missing">SD kartınız çatışmır!</string>
+    <string name="toast_station_renamed">Stansiyanın adı dəyişdirilib</string>
+    <string name="toast_station_searched">Mövcud stansiyalar axtarıldı</string>
+</resources>

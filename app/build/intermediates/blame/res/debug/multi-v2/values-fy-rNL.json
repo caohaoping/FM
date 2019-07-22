@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Radio\\android_packages_apps_FMRadio-lineage-16.01\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fy-rNL\\values-fy-rNL.xml",
+            "map": [
+                {
+                    "source": "D:\\Radio\\android_packages_apps_FMRadio-lineage-16.01\\app\\src\\main\\res\\values-fy-rNL\\cm_strings.xml",
+                    "from": {
+                        "startLines": "20,18,19",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "812,715,766",
+                        "endColumns": "48,50,45",
+                        "endOffsets": "856,761,807"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,104,155",
+                        "endColumns": "48,50,45",
+                        "endOffsets": "99,150,196"
+                    }
+                }
+            ]
+        }
+    ]
+}

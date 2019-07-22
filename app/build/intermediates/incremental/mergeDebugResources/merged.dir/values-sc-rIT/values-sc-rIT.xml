@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_discard_recording">Iscarta</string>
+    <string name="btn_save_recording">Sarva</string>
+    <string name="favorites">Preferidos</string>
+    <string name="optmenu_speaker">Altoparlante</string>
+    <string name="record_title">Registrende</string>
+    <string name="recording_tips">Registrende…</string>
+    <string name="save">Sarva</string>
+</resources>

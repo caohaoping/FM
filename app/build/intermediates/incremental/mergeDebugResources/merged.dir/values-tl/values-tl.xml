@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Mag-navigate patungo sa home"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Mag-navigate pataas"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Higit pang mga opsyon"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Tapos na"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tingnan lahat"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Pumili ng isang app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"I-OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"I-ON"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Maghanap…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"I-clear ang query"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Query sa paghahanap"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Maghanap"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Isumite ang query"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Paghahanap gamit ang boses"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Ibahagi sa/kay"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Ibahagi sa/kay %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"I-collapse"</string>
+    <string name="already_exists">mayroon na</string>
+    <string name="app_name">FM na Radyo</string>
+    <string name="btn_discard_recording">I-discard</string>
+    <string name="btn_save_recording">I-save</string>
+    <string name="edit_recording_name_hint">I-type dito ang pangalan ng file</string>
+    <string name="favorites">Mga Paborito</string>
+    <string name="fm_no_headset_text">Upang simulan ang pakikinig, i-plug in ang mga headphone (ginagamit bilang antenna).</string>
+    <string name="fm_over_record_list">Mga naka-save na pagre-record</string>
+    <string name="fm_over_start_record">Simulan ang pagre-record</string>
+    <string name="fm_station_list_menu_refresh">I-refresh</string>
+    <string name="fm_symbol">FM</string>
+    <string name="fm_turn_on">I-play o ihinto ang FM na radyo</string>
+    <string name="minutes_label">M</string>
+    <string name="more">"Higit pa"</string>
+    <string name="not_available">Kasalukuyang hindi available</string>
+    <string name="optmenu_earphone">Earphone</string>
+    <string name="optmenu_speaker">Speaker</string>
+    <string name="record_notification_message">Kasalukuyang nagaganap ang pagre-record</string>
+    <string name="record_title">Nagre-record</string>
+    <string name="recording_tips">Nagre-record…</string>
+    <string name="remove_favorite">Alisin ang paborito</string>
+    <string name="rename">Palitan ng pangalan</string>
+    <string name="save">I-save</string>
+    <string name="save_dialog_caption">Upang makinig sa mga pagre-record, buksan ang app na Play Music.</string>
+    <string name="save_dialog_title">I-save ang pagre-record?</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Maghanap"</string>
+    <string name="seconds_label">S</string>
+    <string name="station_empty_text">Walang nahanap na mga istasyon</string>
+    <string name="station_rename_hint">Ilagay ang pangalan ng istasyon</string>
+    <string name="station_searching_tips">Kumukuha ng mga istasyon</string>
+    <string name="station_title">Mga Istasyon ng Radyo</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_record">HUMINTO SA PAGRE-RECORD</string>
+    <string name="talk_add_favorite">Idagdag sa paborito</string>
+    <string name="talk_decrease">Bawasan ang dalas</string>
+    <string name="talk_increase">Dagdagan ang dalas</string>
+    <string name="talk_next_station">Susunod na istasyon</string>
+    <string name="talk_prev_station">Nakaraang istasyon</string>
+    <string name="talk_start_recording">Magsimulang mag-record</string>
+    <string name="timer_default">00</string>
+    <string name="toast_cannot_search">Hindi maaaring maghanap ng available na istasyon</string>
+    <string name="toast_listen">MAKINIG</string>
+    <string name="toast_record_not_saved">Hindi na-save ang pagre-record</string>
+    <string name="toast_record_saved">Na-save ang pagre-record</string>
+    <string name="toast_recorder_internal_error">Nagkaroon ng internal error sa recorder!</string>
+    <string name="toast_sdcard_insufficient_space">Hindi sapat na espasyo sa SD card!</string>
+    <string name="toast_sdcard_missing">Nawawala ang iyong SD card!</string>
+    <string name="toast_station_renamed">Napalitan ng pangalan ang istasyon</string>
+    <string name="toast_station_searched">Naghanap ng mga available na istasyon:</string>
+</resources>

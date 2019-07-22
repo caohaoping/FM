@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_save_recording">Konservi</string>
+    <string name="save">Konservi</string>
+    <string name="seconds_label">S</string>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Boshiga o‘tish"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Yuqoriga o‘tish"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Boshqa parametrlar"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Tayyor"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Barchasini ko‘rish"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Dastur tanlang"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"O‘CHIQ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"YONIQ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Qidirish…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"So‘rovni tozalash"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"So‘rovni izlash"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Qidirish"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"So‘rov yaratish"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Ovozli qidiruv"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Ruxsat berish"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%sga ruxsat berish"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Yig‘ish"</string>
+    <string name="already_exists">allaqachon mavjud</string>
+    <string name="app_name">FM Radio</string>
+    <string name="btn_discard_recording">Bekor qilish</string>
+    <string name="btn_save_recording">Saqlash</string>
+    <string name="edit_recording_name_hint">Fayl nomini kiriting</string>
+    <string name="favorites">Sevimlilar</string>
+    <string name="fm_no_headset_text">Radio tinglashni boshlash uchun quloqchinlarni suqing (antenna sifatida ishlatiladi).</string>
+    <string name="fm_over_record_list">Saqlab olingan yozuvlar</string>
+    <string name="fm_over_start_record">Yozib olishni boshlash</string>
+    <string name="fm_station_list_menu_refresh">Yangilash</string>
+    <string name="fm_symbol">FM</string>
+    <string name="fm_turn_on">Radio tinglash yoki to‘xtatish</string>
+    <string name="minutes_label">D</string>
+    <string name="more">"Ko‘proq"</string>
+    <string name="not_available">Hozirda mavjud emas</string>
+    <string name="optmenu_earphone">Quloqchin</string>
+    <string name="optmenu_speaker">Karnay</string>
+    <string name="record_notification_message">Yozib olish ketmoqda</string>
+    <string name="record_title">Yozib olish</string>
+    <string name="recording_tips">Yozib olinmoqda…</string>
+    <string name="remove_favorite">Sevimlilardan olib tashlash</string>
+    <string name="rename">Qayta nomlash</string>
+    <string name="save">Saqlash</string>
+    <string name="save_dialog_caption">Saqlab olingan yozuvlarni eshitish uchun “Play Musiqa” ilovasini oching.</string>
+    <string name="save_dialog_title">Yozuv saqlab olinsinmi?</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Qidirish"</string>
+    <string name="seconds_label">S</string>
+    <string name="station_empty_text">Hech qanday radiokanal topilmadi</string>
+    <string name="station_rename_hint">Radiokanal nomini kiriting</string>
+    <string name="station_searching_tips">Radiostansiyalarni aniqlash</string>
+    <string name="station_title">Radiostansiyalar</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_record">YOZISHNI TO‘XTATISH</string>
+    <string name="talk_add_favorite">Sevimlilarga qo‘shish</string>
+    <string name="talk_decrease">Chastotani kamaytirish</string>
+    <string name="talk_increase">Chastotani ko‘paytirish</string>
+    <string name="talk_next_station">Keyingi radiokanal</string>
+    <string name="talk_prev_station">Avvalgi radiokanal</string>
+    <string name="talk_start_recording">Yozib olishni boshlash</string>
+    <string name="timer_default">00</string>
+    <string name="toast_cannot_search">Mavjud radiostansiyalarni qidirib bo‘lmadi.</string>
+    <string name="toast_listen">TINGLASH</string>
+    <string name="toast_record_not_saved">Yozuv saqlanmadi</string>
+    <string name="toast_record_saved">Yozuv saqlandi</string>
+    <string name="toast_recorder_internal_error">Yozib olishda ichki xatolik yuz berdi.</string>
+    <string name="toast_sdcard_insufficient_space">SD kartada joy yetarli emas.</string>
+    <string name="toast_sdcard_missing">SD karta yo‘q.</string>
+    <string name="toast_station_renamed">Radiokanal qayta nomlandi</string>
+    <string name="toast_station_searched">Aniqlangan radiostansiyalar:</string>
+</resources>

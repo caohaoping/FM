@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Visa startsidan"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigera uppåt"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Fler alternativ"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Klart"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visa alla"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Välj en app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"AV"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"PÅ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Sök …"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ta bort frågan"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Sökfråga"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Sök"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Skicka fråga"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Röstsökning"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dela med"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Dela med %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Komprimera"</string>
+    <string name="already_exists">finns redan</string>
+    <string name="app_name">FM-radio</string>
+    <string name="btn_discard_recording">Släng</string>
+    <string name="btn_save_recording">Spara</string>
+    <string name="edit_recording_name_hint">Skriv filnamnet här</string>
+    <string name="favorites">Favoriter</string>
+    <string name="fm_no_headset_text">Koppla in hörlurarna om du vill börja lyssna (de används som antenn).</string>
+    <string name="fm_over_record_list">Sparade inspelningar</string>
+    <string name="fm_over_start_record">Starta inspelning</string>
+    <string name="fm_station_list_menu_refresh">Uppdatera</string>
+    <string name="fm_symbol">FM</string>
+    <string name="fm_turn_on">Spela upp eller stoppa FM-radio</string>
+    <string name="minutes_label">M</string>
+    <string name="more">"Fler"</string>
+    <string name="not_available">Inte tillgänglig för närvarande</string>
+    <string name="notif_next">Nästa</string>
+    <string name="notif_previous">Föregående</string>
+    <string name="notif_stop">Avbryt</string>
+    <string name="optmenu_earphone">Hörlurar</string>
+    <string name="optmenu_speaker">Högtalare</string>
+    <string name="record_notification_message">Inspelning pågår</string>
+    <string name="record_title">Spelar in</string>
+    <string name="recording_tips">Spelar in ...</string>
+    <string name="remove_favorite">Ta bort från favoriter</string>
+    <string name="rename">Byt namn</string>
+    <string name="save">Spara</string>
+    <string name="save_dialog_caption">Öppna appen Play Musik om du vill lyssna på inspelningarna.</string>
+    <string name="save_dialog_title">Vill du spara inspelningen?</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Sök"</string>
+    <string name="seconds_label">S</string>
+    <string name="station_empty_text">Inga kanaler hittades</string>
+    <string name="station_rename_hint">Ange kanalens namn</string>
+    <string name="station_searching_tips">Hämtar kanaler</string>
+    <string name="station_title">Radiokanaler</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="stop_record">SLUTA SPELA IN</string>
+    <string name="talk_add_favorite">Lägg till i favoriter</string>
+    <string name="talk_decrease">Minska frekvensen</string>
+    <string name="talk_increase">Öka frekvensen</string>
+    <string name="talk_next_station">Nästa kanal</string>
+    <string name="talk_prev_station">Föregående kanal</string>
+    <string name="talk_start_recording">Starta inspelning</string>
+    <string name="timer_default">00</string>
+    <string name="toast_cannot_search">Det går inte att söka efter tillgängliga kanaler.</string>
+    <string name="toast_listen">LYSSNA</string>
+    <string name="toast_record_not_saved">Inspelningen har inte sparats</string>
+    <string name="toast_record_saved">Inspelningen har sparats</string>
+    <string name="toast_recorder_internal_error">Ett internt fel uppstod i inspelningsenheten.</string>
+    <string name="toast_sdcard_insufficient_space">Otillräckligt utrymme på SD-kortet.</string>
+    <string name="toast_sdcard_missing">SD-kortet saknas.</string>
+    <string name="toast_station_renamed">Kanalen har döpts om</string>
+    <string name="toast_station_searched">Tillgängliga kanaler som har hittats:</string>
+</resources>

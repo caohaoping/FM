@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ກັບໄປໜ້າຫຼັກ"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"ຂຶ້ນເທິງ"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"ໂຕເລືອກອື່ນ"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"ແລ້ວໆ"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"ເບິ່ງທັງຫມົດ"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"ເລືອກແອັບຯ"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ປິດ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ເປີດ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"ຊອກຫາ"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"ລຶບຂໍ້ຄວາມຊອກຫາ"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"ຊອກຫາ"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"ຊອກຫາ"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"ສົ່ງການຊອກຫາ"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"ຊອກຫາດ້ວຍສຽງ"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"ແບ່ງປັນກັບ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"ແບ່ງ​ປັນ​ກັບ​ %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"ຫຍໍ້"</string>
+    <string name="already_exists">ມີ​ຢູ່​ແລ້ວ</string>
+    <string name="app_name">ວິທະຍຸ FM</string>
+    <string name="btn_discard_recording">ລຶບ​ຖິ້​ມ</string>
+    <string name="btn_save_recording">ບັນທຶກ</string>
+    <string name="edit_recording_name_hint">ພິມ​ຊື່​ໄຟ​ລ໌​ທີ່​ນີ້</string>
+    <string name="favorites">​ລາຍ​ການ​ທີ່​ມັກ</string>
+    <string name="fm_no_headset_text">ເພື່ອ​ເລີ່ມ​ຟັງ, ສຽບ​ສາຍ​ຟັງ​ຫູ​ໃສ່ (ໃຊ້​ເປັນ​ອັງ​ແຕ່ນ).</string>
+    <string name="fm_over_record_list">ການ​ບັນ​ທຶກ​ທີ່​ບັນ​ທຶກ​ໄວ້</string>
+    <string name="fm_over_start_record">ເລີ່ມ​ການ​ບັນ​ທຶກ</string>
+    <string name="fm_station_list_menu_refresh">ຣີ​ເຟ​ຣ​ຊ</string>
+    <string name="fm_symbol">FM</string>
+    <string name="fm_turn_on">ຫຼິ້ນ ຫຼື​ຢຸດ​ວິ​ທະ​ຍຸ FM</string>
+    <string name="minutes_label">​ຈ</string>
+    <string name="more">"ເພີ່ມເຕີມ"</string>
+    <string name="not_available">ບໍ່​ມີ​ຢູ່​ໃນ​ປະ​ຈຸ​ບັນ</string>
+    <string name="optmenu_earphone">ຊຸດ​ຟັງ​ຫູ</string>
+    <string name="optmenu_speaker">ລຳໂພງ</string>
+    <string name="record_notification_message">ການ​ບັນ​ທຶກ​ຄືບ​ໜ້າ​ຢູ່</string>
+    <string name="record_title">ກຳ​ລັງ​ບັນ​ທຶກ</string>
+    <string name="recording_tips">ກຳ​ລັງ​ບັນ​ທຶກ…</string>
+    <string name="remove_favorite">ເອົາ​ລາຍ​ການ​ທີ່​ມັກ​ອອກ</string>
+    <string name="rename">ປ່ຽນຊື່</string>
+    <string name="save">ບັນທຶກ</string>
+    <string name="save_dialog_caption">ເພື່ອ​ຟັງ​ການ​ບັນ​ທຶກ, ເປີດ​ແອັບຯ Play Music.</string>
+    <string name="save_dialog_title">ບັນ​ທຶກ​ເອົາ​ການ​ບັນ​ທຶກ​ບໍ?</string>
+    <string msgid="146198913615257606" name="search_menu_title">"ຊອກຫາ"</string>
+    <string name="seconds_label">​ສ</string>
+    <string name="station_empty_text">ບໍ່​ພົບ​ສະ​ຖາ​ນີ</string>
+    <string name="station_rename_hint">ປ້ອນ​ຊື່​ສະ​ຖາ​ນີ​ເຂົ້າ​ໄປ</string>
+    <string name="station_searching_tips">ກຳ​ລັງ​ເອົາ​ສະ​ຖາ​ນີ</string>
+    <string name="station_title">ສະ​ຖາ​ນີ​ວິ​ທະ​ຍຸ</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_record">ຢຸດ​ການ​ບັນ​ທຶກ</string>
+    <string name="talk_add_favorite">ເພີ່ມ​ໃສ່​ລາຍ​ການ​ທີ່​ມັກ</string>
+    <string name="talk_decrease">ຫຼຸດ​ຄວາມ​ຖີ່</string>
+    <string name="talk_increase">ເພີ່ມ​ຄວາມ​ຖີ່</string>
+    <string name="talk_next_station">ສະ​ຖາ​ນີ​ຕໍ່​ໄປ</string>
+    <string name="talk_prev_station">ສະ​ຖາ​ນີ​ຜ່ານ​ມາ</string>
+    <string name="talk_start_recording">ເລີ່ມ​ການ​ບັນ​ທຶກ</string>
+    <string name="timer_default">00</string>
+    <string name="toast_cannot_search">ບໍ່​ສາ​ມາດ​ຊອກ​ຫາ​ສະ​ຖາ​ນີ​ທີ່​ມີ​ຢູ່​ໄດ້.</string>
+    <string name="toast_listen">ຟັງ</string>
+    <string name="toast_record_not_saved">ການ​ບັນ​ທຶກ​ບໍ່​ຖືກ​ບັນ​ທຶກ​ໄວ້</string>
+    <string name="toast_record_saved">ບັນ​ທຶກ​ເອົາ​ການ​ບັນ​ທຶກ​ແລ້ວ</string>
+    <string name="toast_recorder_internal_error">ເກີດ​ຄວາມ​ຜິດ​ພາດ​ພາຍ​ໃນ​ຂຶ້ນ​ຢູ່​ໃນ​ການ​ບັນ​ທຶກ!</string>
+    <string name="toast_sdcard_insufficient_space">ເນື້ອ​ທີ່​ແຜ່ນ SD ບໍ່​ພຽງ​ພໍ!</string>
+    <string name="toast_sdcard_missing">ແຜ່ນ SD ຂອງ​ທ່ານ​ຂາດ​ໄປ!</string>
+    <string name="toast_station_renamed">ປ່ຽນ​ຊື່​ສະ​ຖາ​ນີ​ແລ້ວ</string>
+    <string name="toast_station_searched">ຊອກ​ຫາ​ສະ​ຖາ​ນີ​ທີ່​ມີ​ຢູ່​ແລ້ວ:</string>
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ugrás a főoldalra"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Felfelé mozgatás"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"További lehetőségek"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Kész"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Összes megtekintése"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Válasszon ki egy alkalmazást"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"KI"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"BE"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Keresés…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Lekérdezés törlése"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Keresési lekérdezés"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Keresés"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lekérdezés küldése"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hangalapú keresés"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Megosztás a következővel:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Megosztás a következővel: %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Összecsukás"</string>
+    <string name="already_exists">már létezik</string>
+    <string name="app_name">FM rádió</string>
+    <string name="btn_discard_recording">Elvetés</string>
+    <string name="btn_save_recording">Mentés</string>
+    <string name="edit_recording_name_hint">Gépelje be ide a fájl nevét</string>
+    <string name="favorites">Kedvencek</string>
+    <string name="fm_no_headset_text">A rádiózáshoz dugja be a fejhallgatót (amely antennaként funkcionál).</string>
+    <string name="fm_over_record_list">Mentett felvételek</string>
+    <string name="fm_over_start_record">Felvétel indítása</string>
+    <string name="fm_station_list_menu_refresh">Frissítés</string>
+    <string name="fm_symbol">FM</string>
+    <string name="fm_turn_on">FM rádió indítása/leállítása</string>
+    <string name="minutes_label">p</string>
+    <string name="more">"Továbbiak"</string>
+    <string name="not_available">Jelenleg nem áll rendelkezésre</string>
+    <string name="notif_next">Következő</string>
+    <string name="notif_previous">Előző</string>
+    <string name="notif_stop">Megállítás</string>
+    <string name="optmenu_earphone">Fülhallgató</string>
+    <string name="optmenu_speaker">Hangszóró</string>
+    <string name="record_notification_message">Felvétel folyamatban</string>
+    <string name="record_title">Felvétel</string>
+    <string name="recording_tips">Felvétel…</string>
+    <string name="remove_favorite">Eltávolítás a kedvencekből</string>
+    <string name="rename">Átnevezés</string>
+    <string name="save">Mentés</string>
+    <string name="save_dialog_caption">A felvételek meghallgatásához nyissa meg a Play Zene alkalmazást.</string>
+    <string name="save_dialog_title">Menti a felvételt?</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Keresés"</string>
+    <string name="seconds_label">mp</string>
+    <string name="station_empty_text">Nem található állomás</string>
+    <string name="station_rename_hint">Adja meg az állomás nevét</string>
+    <string name="station_searching_tips">Állomások keresése</string>
+    <string name="station_title">Rádióállomások</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_record">FELVÉTEL LEÁLLÍTÁSA</string>
+    <string name="talk_add_favorite">Hozzáadás a kedvencekhez</string>
+    <string name="talk_decrease">Frekvencia csökkentése</string>
+    <string name="talk_increase">Frekvencia növelése</string>
+    <string name="talk_next_station">Következő állomás</string>
+    <string name="talk_prev_station">Előző állomás</string>
+    <string name="talk_start_recording">Felvétel indítása</string>
+    <string name="timer_default">00</string>
+    <string name="toast_cannot_search">Nincs fogható állomás.</string>
+    <string name="toast_listen">HALLGATÁS</string>
+    <string name="toast_record_not_saved">A felvétel nincs mentve</string>
+    <string name="toast_record_saved">Felvétel mentve</string>
+    <string name="toast_recorder_internal_error">Belső hiba történt a felvevőben!</string>
+    <string name="toast_sdcard_insufficient_space">Nincs elegendő hely az SD-kártyán!</string>
+    <string name="toast_sdcard_missing">Az SD-kártya hiányzik!</string>
+    <string name="toast_station_renamed">Az állomást átnevezte</string>
+    <string name="toast_station_searched">Fogható állomások:</string>
+</resources>

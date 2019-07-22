@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigați la ecranul de pornire"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigați în sus"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mai multe opțiuni"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Terminat"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Afișați-le pe toate"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Alegeți o aplicație"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DEZACTIVAȚI"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVAT"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Căutați…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ștergeți interogarea"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Interogare de căutare"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Căutați"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Trimiteți interogarea"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Căutare vocală"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Trimiteți la"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Trimiteți la %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Restrângeți"</string>
+    <string name="already_exists">există deja</string>
+    <string name="app_name">Radio FM</string>
+    <string name="btn_discard_recording">Ștergeți</string>
+    <string name="btn_save_recording">Salvați</string>
+    <string name="edit_recording_name_hint">Introduceți numele fișierului aici</string>
+    <string name="favorites">Preferate</string>
+    <string name="fm_no_headset_text">Pentru a începe să ascultați, conectați căștile (au rol de antenă).</string>
+    <string name="fm_over_record_list">Înregistrări salvate</string>
+    <string name="fm_over_start_record">Începeți înregistrarea</string>
+    <string name="fm_station_list_menu_refresh">Actualizați</string>
+    <string name="fm_symbol">FM</string>
+    <string name="fm_turn_on">Redați sau opriți radioul FM</string>
+    <string name="minutes_label">m</string>
+    <string name="more">"Mai multe"</string>
+    <string name="not_available">Momentan indisponibil</string>
+    <string name="notif_next">Următoarea</string>
+    <string name="notif_previous">Anterior</string>
+    <string name="notif_stop">Stop</string>
+    <string name="optmenu_earphone">Cască</string>
+    <string name="optmenu_speaker">Difuzor</string>
+    <string name="record_notification_message">Înregistrare în curs</string>
+    <string name="record_title">Se înregistrează</string>
+    <string name="recording_tips">Se înregistrează...</string>
+    <string name="remove_favorite">Eliminați din preferate</string>
+    <string name="rename">Redenumiți</string>
+    <string name="save">Salvați</string>
+    <string name="save_dialog_caption">Pentru a asculta înregistrări, deschideți aplicația Muzică Play.</string>
+    <string name="save_dialog_title">Salvați înregistrarea?</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Căutați"</string>
+    <string name="seconds_label">s</string>
+    <string name="station_empty_text">Nu s-au găsit posturi</string>
+    <string name="station_rename_hint">Introduceți numele postului</string>
+    <string name="station_searching_tips">Se preiau posturi</string>
+    <string name="station_title">Posturi de radio</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"˃999"</string>
+    <string name="stop_record">OPRIȚI ÎNREGISTRAREA</string>
+    <string name="talk_add_favorite">Adăugați la preferate</string>
+    <string name="talk_decrease">Scădeți frecvența</string>
+    <string name="talk_increase">Creșteți frecvența</string>
+    <string name="talk_next_station">Postul următor</string>
+    <string name="talk_prev_station">Postul anterior</string>
+    <string name="talk_start_recording">Începeți înregistrarea</string>
+    <string name="timer_default">00</string>
+    <string name="toast_cannot_search">Nu se pot căuta posturile disponibile.</string>
+    <string name="toast_listen">ASCULTAȚI</string>
+    <string name="toast_record_not_saved">Înregistrarea nu a fost salvată</string>
+    <string name="toast_record_saved">Înregistrare a fost salvată</string>
+    <string name="toast_recorder_internal_error">Instrumentul de înregistrare a întâmpinat o eroare internă!</string>
+    <string name="toast_sdcard_insufficient_space">Spațiul de pe cardul SD este insuficient!</string>
+    <string name="toast_sdcard_missing">Lipsește cardul SD!</string>
+    <string name="toast_station_renamed">Postul a fost redenumit</string>
+    <string name="toast_station_searched">S-au căutat posturile disponibile:</string>
+</resources>

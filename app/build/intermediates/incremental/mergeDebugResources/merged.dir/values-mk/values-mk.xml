@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Движи се кон дома"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Движи се нагоре"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Повеќе опции"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Види ги сите"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Избери апликација"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ИСКЛУЧЕНО"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛУЧЕНО"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Пребарување…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Исчисти барање"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Пребарај барање"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Пребарај"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Поднеси барање"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Гласовно пребарување"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Сподели со"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Собери"</string>
+    <string name="already_exists">веќе постои</string>
+    <string name="app_name">FM Radio</string>
+    <string name="btn_discard_recording">Отфрли</string>
+    <string name="btn_save_recording">Зачувај</string>
+    <string name="edit_recording_name_hint">Напишете го името на датотеката тука</string>
+    <string name="favorites">Омилени</string>
+    <string name="fm_no_headset_text">За да почнете да слушате, приклучете слушалки (се користат како антена).</string>
+    <string name="fm_over_record_list">Зачувани снимки</string>
+    <string name="fm_over_start_record">Започнете со снимање</string>
+    <string name="fm_station_list_menu_refresh">Освежи</string>
+    <string name="fm_symbol">FM</string>
+    <string name="fm_turn_on">Пуштете или запрете FM radio</string>
+    <string name="minutes_label">М</string>
+    <string name="more">"Повеќе"</string>
+    <string name="not_available">Во моментов не е достапно</string>
+    <string name="optmenu_earphone">Слушалка</string>
+    <string name="optmenu_speaker">Звучник</string>
+    <string name="record_notification_message">Снимање во тек</string>
+    <string name="record_title">Се снима</string>
+    <string name="recording_tips">Се снима…</string>
+    <string name="remove_favorite">Отстрани омилени</string>
+    <string name="rename">Преименувај</string>
+    <string name="save">Зачувај</string>
+    <string name="save_dialog_caption">За да ги слушате снимките, отворете ја апликацијата Play Music.</string>
+    <string name="save_dialog_title">Зачувај ја снимката?</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Пребарај"</string>
+    <string name="seconds_label">С</string>
+    <string name="station_empty_text">Не се најдени станици</string>
+    <string name="station_rename_hint">Внесете име на станица</string>
+    <string name="station_searching_tips">Се добиваат станици</string>
+    <string name="station_title">Радиостаници</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_record">ПРЕКИНИ СО СНИМАЊЕ</string>
+    <string name="talk_add_favorite">Додај во омилени</string>
+    <string name="talk_decrease">Намали ја фреквенцијата</string>
+    <string name="talk_increase">Зголеми ја фреквенцијата</string>
+    <string name="talk_next_station">Следна станица</string>
+    <string name="talk_prev_station">Претходна станица</string>
+    <string name="talk_start_recording">Започнете со снимање</string>
+    <string name="timer_default">00</string>
+    <string name="toast_cannot_search">Не може да се бара достапна станица.</string>
+    <string name="toast_listen">СЛУШАЈ</string>
+    <string name="toast_record_not_saved">Снимката не е зачувана</string>
+    <string name="toast_record_saved">Снимката е зачувана</string>
+    <string name="toast_recorder_internal_error">Се појави внатрешна грешка во снимачот!</string>
+    <string name="toast_sdcard_insufficient_space">Недоволно простор на СД-картичката!</string>
+    <string name="toast_sdcard_missing">СД-картичката недостасува!</string>
+    <string name="toast_station_renamed">Станицата е преименувана</string>
+    <string name="toast_station_searched">Се пребараа достапни станици:</string>
+</resources>

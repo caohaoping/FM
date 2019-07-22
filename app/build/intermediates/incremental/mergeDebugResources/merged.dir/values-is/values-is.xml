@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Fara heim"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Fara upp"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Fleiri valkostir"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Lokið"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Sjá allt"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Veldu forrit"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"SLÖKKT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"KVEIKT"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Leita…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Hreinsa fyrirspurn"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Leitarfyrirspurn"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Leita"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Senda fyrirspurn"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Raddleit"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Deila með"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Deila með %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Minnka"</string>
+    <string name="already_exists">er þegar til</string>
+    <string name="app_name">Útvarp</string>
+    <string name="btn_discard_recording">Fleygja</string>
+    <string name="btn_save_recording">Vista</string>
+    <string name="edit_recording_name_hint">Sláðu inn skráarheiti hér</string>
+    <string name="favorites">Uppáhald</string>
+    <string name="fm_no_headset_text">Tengdu heyrnartól til að hlusta (þau eru notuð sem loftnet).</string>
+    <string name="fm_over_record_list">Vistaðar upptökur</string>
+    <string name="fm_over_start_record">Hefja upptöku</string>
+    <string name="fm_station_list_menu_refresh">Endurnýja</string>
+    <string name="fm_symbol">FM</string>
+    <string name="fm_turn_on">Hlusta á útvarp eða slökkva</string>
+    <string name="minutes_label">m.</string>
+    <string name="more">"Meira"</string>
+    <string name="not_available">Ekki í boði sem stendur</string>
+    <string name="optmenu_earphone">Heyrnartól</string>
+    <string name="optmenu_speaker">Hátalari</string>
+    <string name="record_notification_message">Upptaka í gangi</string>
+    <string name="record_title">Upptaka í gangi</string>
+    <string name="recording_tips">Upptaka í gangi…</string>
+    <string name="remove_favorite">Fjarlægja uppáhald</string>
+    <string name="rename">Endurnefna</string>
+    <string name="save">Vista</string>
+    <string name="save_dialog_caption">Opnaðu forritið Play Music til að hlusta á upptökur.</string>
+    <string name="save_dialog_title">Vista upptöku?</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Leita"</string>
+    <string name="seconds_label">s.</string>
+    <string name="station_empty_text">Engar stöðvar fundust</string>
+    <string name="station_rename_hint">Sláðu inn stöðvarheiti</string>
+    <string name="station_searching_tips">Sækir stöðvar</string>
+    <string name="station_title">Útvarpsstöðvar</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_record">STÖÐVA UPPTÖKU</string>
+    <string name="talk_add_favorite">Bæta við uppáhald</string>
+    <string name="talk_decrease">Lækka tíðni</string>
+    <string name="talk_increase">Hækka tíðni</string>
+    <string name="talk_next_station">Næsta stöð</string>
+    <string name="talk_prev_station">Fyrri stöð</string>
+    <string name="talk_start_recording">Hefja upptöku</string>
+    <string name="timer_default">00</string>
+    <string name="toast_cannot_search">Ekki er hægt að leita að stöðvum í boði.</string>
+    <string name="toast_listen">HLUSTA</string>
+    <string name="toast_record_not_saved">Upptaka ekki vistuð</string>
+    <string name="toast_record_saved">Upptaka vistuð</string>
+    <string name="toast_recorder_internal_error">Innri villa kom upp í upptökutæki!</string>
+    <string name="toast_sdcard_insufficient_space">Ekki nægt pláss á SD-korti!</string>
+    <string name="toast_sdcard_missing">SD-kortið vantar!</string>
+    <string name="toast_station_renamed">Heiti stöðvarinnar var breytt</string>
+    <string name="toast_station_searched">Leitað að útvarpsstöðvum í boði:</string>
+</resources>
